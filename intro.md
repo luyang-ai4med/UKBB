@@ -1,1 +1,1 @@
-This repo is an overview for UK Biobank
+This repo is an overview for phenotyping in UK Biobank. 
